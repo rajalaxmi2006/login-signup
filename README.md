@@ -29,3 +29,10 @@ login-signup-page/
 ├── style.css
 └── script.js
 ```
+## Contact
+- GitHub: https://github.com/rajalaxmi2006
+- Email: biswalrajalaxmi901@gmail.com
+- Linkedin: www.linkedin.com/in/rajalaxmi-biswal-90652337b
+---
+
+⭐ If you like this portfolio, feel free to star the repository!
